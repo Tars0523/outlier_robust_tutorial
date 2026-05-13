@@ -1,7 +1,7 @@
 # Simple GNC for Point Set Registration
 
 <p align="center">
-  <img src="misc/gnc_tls_path_enhanced.gif" alt="GNC-TLS optimization path" width="920">
+  <img src="misc/gnc_tls_path_enhanced.gif" alt="GNC-TLS optimization path" width="640">
 </p>
 
 <p align="center">
