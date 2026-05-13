@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+.vscode/
+translation_rmse.png
+rotation_rmse.png
